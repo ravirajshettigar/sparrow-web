@@ -8,6 +8,7 @@ public class SparrowWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SparrowWebApplication.class, args);
+                System.out.println("Hello World");
 	}
 
 }
